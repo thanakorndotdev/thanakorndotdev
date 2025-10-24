@@ -1,9 +1,8 @@
 ## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thanakorn Chareonlertkamol(JIN)
-=========================================================================================================================================================
 # Student at School of Information Technology King Mongkut's University of Technology Thonburi
 
 # PartTime Software Engineering and Full stack Developer at Freelance
----------------------------------------------------------------------------------------------
+
 ### I've built this project as a part of my learning and passion for full-stack development.
 
 ### It demonstrates how to combine modern web technologies, clean architecture, and responsive design principles into a practical, production-ready solution.
