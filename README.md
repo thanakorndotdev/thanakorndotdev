@@ -1,8 +1,6 @@
-## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-# I'm Thanakorn Chareonlertkamol (JIN)
+## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Thanakorn Chareonlertkamol (JIN)
 
-### 🎓 Student at School of Information Technology  
-### King Mongkut's University of Technology Thonburi
+### 🎓 Student at School of Information Technology King Mongkut's University of Technology Thonburi
 
 ### 💻 Part-Time Software Engineer & Full-Stack Developer at Freelance
 
@@ -11,7 +9,7 @@ It demonstrates how to combine modern web technologies, clean architecture, and 
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Frontend:**  
 Next.js • React.js • TypeScript • Tailwind CSS • HTML5 • CSS3 • JavaScript (ES6+) • Bootstrap • Figma  
@@ -31,7 +29,7 @@ Git • GitHub • VS Code • Postman • Linux / Ubuntu • Zsh • Agile / Sc
 **Learning:**  
 Rust • Go • Modern backend frameworks • DevOps automation • AI integration  
 
----
+##
 
 This repository showcases:
 
@@ -47,7 +45,7 @@ Feel free to explore the source code, open issues, or suggest improvements.
 
 Your feedback is always welcome! 🚀
 
----
+##
 
 * 🌍 I'm based in **Bangkok, Thailand**  
 * 🖥️ See my portfolio at [My Portfolio](http://thanakorn.dev)  
