@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thanakorn Chareonlertkamol(JIN)
 =========================================================================================================================================================
-Student at School of Information Technology King Mongkut's University of Technology Thonburi
-PartTime Software Engineering and Full stack Developer at Freelance
+## Student at School of Information Technology King Mongkut's University of Technology Thonburi
+
+## PartTime Software Engineering and Full stack Developer at Freelance
 ---------------------------------------------------------------------------------------------
-I've built this project as a part of my learning and passion for full-stack development.
-It demonstrates how to combine modern web technologies, clean architecture, and responsive design principles into a practical, production-ready solution.
+# I've built this project as a part of my learning and passion for full-stack development.
+
+# It demonstrates how to combine modern web technologies, clean architecture, and responsive design principles into a practical, production-ready solution.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🛠️ Tech Stack
 
@@ -41,9 +43,8 @@ This repository showcases:
 The goal of this project is not only to demonstrate technical capability but also to show real-world problem-solving, teamwork mindset, and software craftsmanship — reflecting my long-term journey toward becoming a professional full-stack engineer.
 
 Feel free to explore the source code, open issues, or suggest improvements.
-
-Your feedback is always welcome! 🚀
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Your feedback is always welcome! 🚀
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [My Portfolio](http://thanakorn.dev)
 * ✉️  You can contact me at [contact@thanakorn.dev](mailto:contact@thanakorn.dev)
@@ -53,3 +54,4 @@ Your feedback is always welcome! 🚀
 * 💬 Ask me about work and job or everything
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I can't think of what to do next.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
