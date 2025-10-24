@@ -5,7 +5,6 @@ Student at School of Information Technology King Mongkut's University of Technol
 PartTime Software Engineering and Full stack Developer at Freelance
 ---------------------------------------------------------------------------------------------
 I've built this project as a part of my learning and passion for full-stack development.
-
 It demonstrates how to combine modern web technologies, clean architecture, and responsive design principles into a practical, production-ready solution.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🛠️ Tech Stack
