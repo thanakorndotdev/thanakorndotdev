@@ -7,7 +7,7 @@
 I've built this project as a part of my learning and passion for full-stack development.  
 It demonstrates how to combine modern web technologies, clean architecture, and responsive design principles into a practical, production-ready solution.
 
----
+##
 
 ### 🛠️ Tech Stack
 
@@ -56,3 +56,9 @@ Your feedback is always welcome! 🚀
 * 💬 Ask me about work, coding, or anything  
 * 😄 Pronouns: **He / Him**  
 * ⚡ Fun fact: I can’t think of what to do next.
+
+##
+
+### 🎵 Last music to listen:
+
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000004.2531b0177b4b4c528b30acc57f8e629a.1732)](https://music-profile.rayriffy.com)
