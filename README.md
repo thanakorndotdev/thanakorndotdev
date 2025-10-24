@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thanakorn Chareonlertkamol
+===================================================================================================================================================
 
-<!--
-**thanakorndotdev/thanakorndotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering and Full stack Developer
+---------------------------------------------
 
-Here are some ideas to get you started:
+I've built this project as a part of my learning and passion for full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It demonstrates how to combine modern web technologies, clean architecture, and responsive design principles into a practical, production-ready solution.
+
+This repository showcases:
+
+\- Scalable \*\*frontend development\*\* using Next.js, React, and Tailwind CSS.
+
+\- Efficient \*\*backend integration\*\* with Node.js / Express and RESTful APIs.
+
+\- Deployment readiness with \*\*Docker\*\*, \*\*Cloudflare\*\*, and \*\*Firebase Hosting\*\*.
+
+\- A clean and structured \*\*UI/UX layout\*\*, emphasizing accessibility and performance.
+
+\- Reusable, maintainable code that follows modern \*\*best practices\*\*.
+
+The goal of this project is not only to demonstrate technical capability but also to show real-world problem-solving, teamwork mindset, and software craftsmanship — reflecting my long-term journey toward becoming a professional full-stack engineer.
+
+Feel free to explore the source code, open issues, or suggest improvements.
+
+Your feedback is always welcome! 🚀
+
+* 🌍  I'm based in Bangkok
+* 🖥️  See my portfolio at [My Portfolio](http://thanakorn.dev)
+* ✉️  You can contact me at [contact@thanakorn.dev](mailto:contact@thanakorn.dev)
+* 🚀  I'm currently working on [Freelance Worker](http://thanakorn.dev)
+* 🧠  I'm currently learning a rust , go language and new backend framework
+* 👥  I'm looking to collaborate on projects that create new knowledge for me and interesting projects
+* 💬 Ask me about work and job or everything
+* 😄 Pronouns: He/Him
+* ⚡ Fun fact: I can't think of what to do next.
